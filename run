@@ -1,0 +1,3 @@
+#!/bin/bash
+deno run --config tsconfig.json  main.ts
+
